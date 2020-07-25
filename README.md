@@ -1,8 +1,6 @@
 # 
 Paper based implementation: Trends’ Signal Strength and the Performance of CTAs
 
-Use
-
 
 For its full use, some other libraries and credentials are required. For this use pip to install some packages in the environment:
 
